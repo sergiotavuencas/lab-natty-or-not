@@ -33,45 +33,45 @@ Ao gerar o ***Guts***, o **Leonardo.AI** teve dificuldades em entender algumas d
 
 Abaixo estão algumas das imagens geradas que achei engraçado pelos erros da IA:
 
-"A espada a direita ta saindo da onde?"
-![01](https://github.com/sergiotavuencas/lab-natty-or-not/blob/imagens-geradas/01.jpg)
-<br>
-"Esse olho direito ta meio estranho, e acho que eram para duas espadas se cruzando ali."
-![02](https://github.com/sergiotavuencas/lab-natty-or-not/blob/imagens-geradas/02.jpg)
-<br>
-"Me parece que ele tem duas mãos esquerdas, e acho que na que esta mais deveria ser um arco, e não uma espada já que nem parece uma."
-![03](https://github.com/sergiotavuencas/lab-natty-or-not/blob/imagens-geradas/03.jpg)
-<br>
-"Acho que ele fez a capa depois de cortar o cabelo."
-![04](https://github.com/sergiotavuencas/lab-natty-or-not/blob/imagens-geradas/04.jpg)
-<br>
-"Cortarão a ponta do dedo indicador da mão direita, e me parece que ele tem dois dedões e dois indicadores na mão esquerda."
-![05](https://github.com/sergiotavuencas/lab-natty-or-not/blob/imagens-geradas/05.jpg)
-<br>
-"Dois braços na costa tirando uma espada de um portal dimensional?"
-![06](https://github.com/sergiotavuencas/lab-natty-or-not/blob/imagens-geradas/06.jpg)
-<br>
-"Porque tem um cabo de espada saindo da cabeça dele? E porque desenhar o personagem três vezes?"
-![07](https://github.com/sergiotavuencas/lab-natty-or-not/blob/imagens-geradas/07.jpg)
-<br>
-"Que espada é aquela do capuz? E a mão esquerda fez minha cabeça girar."
-![08](https://github.com/sergiotavuencas/lab-natty-or-not/blob/imagens-geradas/08.jpg)
-<br>
-"A espada atrás dele foi o mais próximo que a IA chegou da descrição. Nessa imagem parece que colocaram primeiro a lâmina, depois um png do personagem por cima, e depois o png de uma espada aleatória."
-![09](https://github.com/sergiotavuencas/lab-natty-or-not/blob/imagens-geradas/09.jpg)
-<br>
-"Perdeu as mãos, ou são invisíveis, não sei."
-![10](https://github.com/sergiotavuencas/lab-natty-or-not/blob/imagens-geradas/10.jpg)
-<br>
-"Primeiro, cade a mão esquerda? Segundo, porque está segurando a espada assim?"
-![11](https://github.com/sergiotavuencas/lab-natty-or-not/blob/imagens-geradas/11.jpg)
-<br>
-"Acho que metade do braço direito se teleportou para a perna pra segurar essa espada "diferentona""
-![12](https://github.com/sergiotavuencas/lab-natty-or-not/blob/imagens-geradas/12.jpg)
-<br>
-"Olhei pra mão e pensei, ***"Cowabunga!!!"***"
-![13](https://github.com/sergiotavuencas/lab-natty-or-not/blob/imagens-geradas/13.jpg)
-<br>
+> A espada a direita ta saindo da onde?
+![01](https://github.com/sergiotavuencas/lab-natty-or-not/blob/main/imagens-geradas/01.jpg)
+
+> Esse olho direito ta meio estranho, e acho que eram para duas espadas se cruzando ali.
+![02](https://github.com/sergiotavuencas/lab-natty-or-not/blob/main/imagens-geradas/02.jpg)
+
+> Me parece que ele tem duas mãos esquerdas, e acho que na que esta mais deveria ser um arco, e não uma espada já que nem parece uma.
+![03](https://github.com/sergiotavuencas/lab-natty-or-not/blob/main/imagens-geradas/03.jpg)
+
+>Acho que ele fez a capa depois de cortar o cabelo.
+![04](https://github.com/sergiotavuencas/lab-natty-or-not/blob/main/imagens-geradas/04.jpg)
+
+> Cortarão a ponta do dedo indicador da mão direita, e me parece que ele tem dois dedões e dois indicadores na mão esquerda.
+![05](https://github.com/sergiotavuencas/lab-natty-or-not/blob/main/imagens-geradas/05.jpg)
+
+> Dois braços na costa tirando uma espada de um portal dimensional?
+![06](https://github.com/sergiotavuencas/lab-natty-or-not/blob/main/imagens-geradas/06.jpg)
+
+> Porque tem um cabo de espada saindo da cabeça dele? E porque desenhar o personagem três vezes?
+![07](https://github.com/sergiotavuencas/lab-natty-or-not/blob/main/imagens-geradas/07.jpg)
+
+> Que espada é aquela do capuz? E a mão esquerda fez minha cabeça girar.
+![08](https://github.com/sergiotavuencas/lab-natty-or-not/blob/main/imagens-geradas/08.jpg)
+
+> A espada atrás dele foi o mais próximo que a IA chegou da descrição. Nessa imagem parece que colocaram primeiro a lâmina, depois um png do personagem por cima, e depois o png de uma espada aleatória.
+![09](https://github.com/sergiotavuencas/lab-natty-or-not/blob/main/imagens-geradas/09.jpg)
+
+> Perdeu as mãos, ou são invisíveis, não sei.
+![10](https://github.com/sergiotavuencas/lab-natty-or-not/blob/main/imagens-geradas/10.jpg)
+
+> Primeiro, cade a mão esquerda? Segundo, porque está segurando a espada assim?
+![11](https://github.com/sergiotavuencas/lab-natty-or-not/blob/main/imagens-geradas/11.jpg)
+
+> Acho que metade do braço direito se teleportou para a perna pra segurar essa espada "diferentona"
+![12](https://github.com/sergiotavuencas/lab-natty-or-not/blob/main/imagens-geradas/12.jpg)
+
+> Olhei pra mão e pensei, ***"Cowabunga!!!"***
+![13](https://github.com/sergiotavuencas/lab-natty-or-not/blob/main/imagens-geradas/13.jpg)
+
 
 ### Desculpe pela quantidade de imagens, aqui está a batata orc do Senhor dos Anéis:
-![orc-potato](https://github.com/sergiotavuencas/lab-natty-or-not/blob/imagens-geradas/orc-potato.jpg)
+![orc-potato](https://github.com/sergiotavuencas/lab-natty-or-not/blob/main/imagens-geradas/orc-potato.jpg)
